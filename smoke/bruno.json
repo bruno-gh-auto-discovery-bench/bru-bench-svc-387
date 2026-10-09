@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "fraud-smoke-3",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
